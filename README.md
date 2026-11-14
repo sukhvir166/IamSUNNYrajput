@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Banner -->
   <a href="https://github.com/sukhvir166">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+(Sukhvir);Frontend+%26+Software+Engineer;AI%2C+ML+%26+Game+Dev+Enthusiast;Building+Next-Gen+Interactive+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+(Sukhvir);Frontend+%26+Software+Engineer;AI%2C+ML+%26+Game+Dev+Enthusiast;Building+Next-Gen+Interactive+Experiences" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -82,14 +82,14 @@ Fun Fact: "I turn coffee into responsive interfaces and clean code."
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
+      <td width="50%" align="center">
         <a href="https://github.com/sukhvir166/solar-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhvir166&repo=solar-system&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Solar System" />
+          <img src="https://github-readme-stats.vercel.app/api/pin?username=sukhvir166&repo=solar-system&theme=tokyonight&hide_border=true" width="95%" alt="Solar System" />
         </a>
       </td>
-      <td width="50%">
+      <td width="50%" align="center">
         <a href="https://github.com/sukhvir166/CRISPR-Cas9-DNA-simulation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhvir166&repo=CRISPR-Cas9-DNA-simulation&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="CRISPR Cas9 DNA simulation" />
+          <img src="https://github-readme-stats.vercel.app/api/pin?username=sukhvir166&repo=CRISPR-Cas9-DNA-simulation&theme=tokyonight&hide_border=true" width="95%" alt="CRISPR Cas9 DNA simulation" />
         </a>
       </td>
     </tr>
@@ -103,16 +103,17 @@ Fun Fact: "I turn coffee into responsive interfaces and clean code."
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sukhvir166&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" width="100%" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=sukhvir166&show_icons=true&locale=en&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhvir166&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhvir166&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="95%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=sukhvir166&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Contribution Streak" />
+        <br/>
+        <img src="https://streak-stats.demolab.com/?user=sukhvir166&theme=tokyonight&hide_border=true" width="95%" alt="Contribution Streak" />
       </td>
     </tr>
   </table>
@@ -123,7 +124,7 @@ Fun Fact: "I turn coffee into responsive interfaces and clean code."
 ### 📊 Contribution Activity & Commit Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukhvir166&theme=tokyo-night&hide_border=true&border_radius=8&area=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://ghchart.rshah.org/38bdf8/sukhvir166" width="100%" alt="Sunny's Github Contribution Chart" />
 </div>
 
 ---
@@ -132,7 +133,7 @@ Fun Fact: "I turn coffee into responsive interfaces and clean code."
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sukhvir166&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sukhvir166&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
 
