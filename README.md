@@ -1,123 +1,143 @@
-::: {align="center"}
-Hey, I'm Sunny 👋
-Frontend Developer · Software Engineer · AI/ML Enthusiast
-Building things for the web, exploring intelligent systems, and turning
-ideas into working projects.
-```{=html}
-<p>
-```
-`<a href="https://github.com/sukhvir166">`{=html}
-`<img src="https://komarev.com/ghpvc/?username=sukhvir166&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />`{=html}
-`</a>`{=html}
-`<a href="https://github.com/sukhvir166?tab=followers">`{=html}
-`<img src="https://img.shields.io/github/followers/sukhvir166?label=Followers&style=flat&color=blue" alt="GitHub followers" />`{=html}
-`</a>`{=html}
-`<a href="https://github.com/sukhvir166?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/Repositories-Explore-181717?logo=github" alt="Explore repositories" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-![GitHub](https://img.shields.io/badge/GitHub-sukhvir166-181717?style=for-the-badge&logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)
-:::
+<div align="center">
+
+  <!-- Typing SVG Banner -->
+  <a href="https://github.com/sukhvir166">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+(Sukhvir);Frontend+%26+Software+Engineer;AI%2C+ML+%26+Game+Dev+Enthusiast;Building+Next-Gen+Interactive+Experiences" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <strong>Passionate Engineer & Creative Developer from India 🇮🇳</strong>
+  </p>
+
+  <!-- Profile Views & Social Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sukhvir166&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+    <a href="https://linkedin.com/in/sukhvir" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sssrajput166@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://codesandbox.com/sunny" target="_blank">
+      <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
+    </a>
+  </p>
+
+</div>
+
 ---
-🚀 About Me
-🎓 I'm currently working on Engineering and software
-development.
-🌱 Exploring Frontend & Backend Development, AI, Machine Learning,
-DSA, Cybersecurity, and Game Development.
-🤝 Interested in collaborating on creative and meaningful software
-projects.
-🧪 I enjoy debugging, testing, problem-solving, and reverse
-engineering.
-📫 Reach me at sssrajput166@gmail.com.
-⚡ Fun fact: I believe programming is serious work --- but
-developers don't have to be serious all the time!
-🧩 Featured Projects
+
+### 👨‍💻 About Me
+
+```yaml
+Name: Sunny (Sukhvir)
+Role: Frontend & Software Developer
+Core Focus: Modern Web Apps, 3D Interactive Graphics, AI/ML, Game Dev
+Currently Exploring: Reverse Engineering, DSA, System Design & Cloud Architecture
+Collaborating On: Solar System Simulator & CRISPR Cas9 Simulation
+Fun Fact: "I turn coffee into responsive interfaces and clean code."
+```
+
+- 🔭 **Currently Building:** High-performance web applications & interactive simulations.
+- 🌱 **Learning & Exploring:** AI/ML, Advanced DSA, Game Architecture, Reverse Engineering & Cybersecurity.
+- 👯 **Open to Collaboration:** Check out [Solar System](https://github.com/sukhvir166/solar-system) & [CRISPR Cas9 Simulation](https://github.com/sukhvir166/CRISPR-Cas9-DNA-simulation).
+- 💬 **Ask me about:** Frontend architecture, React/Next.js, 3D visualization, Debugging & Performance Optimization.
+- 📫 **Reach me at:** `sssrajput166@gmail.com`
+
 ---
-Project                                                                 Description
+
+### 🛠️ Languages & Technologies
+
+<div align="center">
+
+#### **Frontend & Mobile**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,android&perline=12" alt="Frontend & Mobile" />
+
+<br/>
+
+#### **Backend, APIs & Cloud**
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,python,java,docker,aws,gcp,postman&perline=12" alt="Backend & Cloud" />
+
+<br/>
+
+#### **Languages & Systems**
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,python,linux&perline=12" alt="Languages & Systems" />
+
+<br/>
+
+#### **Databases & Big Data**
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=12" alt="Databases" />
+
+<br/>
+
+#### **Game Dev, 3D & Design**
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,ai,git&perline=12" alt="Game Dev & Design" />
+
+</div>
+
 ---
-☀️ Solar System           An interactive project exploring
-our solar system.
-🧬 CRISPR-Cas9 DNA                                                     A simulation project inspired by
-Simulation   CRISPR-Cas9 gene-editing concepts.
-> Explore more projects on **[my GitHub
-> repositories](https://github.com/sukhvir166?tab=repositories)**.
-📊 GitHub Analytics
-::: {align="center"}
-Contribution Activity Graph
-![Sunny's contribution](https://github-readme-activity-graph.vercel.app/graph?username=sukhvir166&theme=react-dark&hide_border=true&area=true)
-:::
-::: {align="center"}
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=sukhvir166&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhvir166&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td colspan="2" align="center">
-```
-`<img height="165" src="https://streak-stats.demolab.com?user=sukhvir166&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
-:::
-Commit Activity
-::: {align="center"}
-![Commit](https://github-readme-activity-graph.vercel.app/graph?username=sukhvir166&custom_title=Commit%20Activity&theme=github-compact&hide_border=true)
-:::
-GitHub Trophies
-::: {align="center"}
-![GitHub](https://github-profile-trophy.vercel.app/?username=sukhvir166&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
-:::
-🛠️ Languages, Tools & Technologies
-::: {align="center"}
-Programming Languages
-`<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,rust" alt="Programming languages" />`{=html}
-Web & App Development
-`<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nestjs,flutter,android" alt="Web and app development tools" />`{=html}
-Databases, Cloud & DevOps
-`<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,docker,git,linux,postman" alt="Databases, cloud and DevOps tools" />`{=html}
-Creative & Engineering Tools
-`<img src="https://skillicons.dev/icons?i=blender,unity,unreal,arduino,matlab" alt="Creative and engineering tools" />`{=html}
-:::
-🤝 Connect With Me
-::: {align="center"}
-![LinkedIn](https://img.shields.io/badge/LinkedIn-sukhvir-0A66C2?style=for-the-badge&logo=linkedin)
-![CodeSandbox](https://img.shields.io/badge/CodeSandbox-sunny-151515?style=for-the-badge&logo=codesandbox)
-![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-:::
+
+### 📌 Featured Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/sukhvir166/solar-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhvir166&repo=solar-system&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Solar System" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/sukhvir166/CRISPR-Cas9-DNA-simulation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sukhvir166&repo=CRISPR-Cas9-DNA-simulation&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="CRISPR Cas9 DNA simulation" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
-::: {align="center"}
-💡 Keep learning. Keep building. Keep sharing.
-Thanks for visiting my profile! Feel free to explore my repositories
-and connect.
-:::
+
+### 📈 GitHub Analytics & Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=sukhvir166&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhvir166&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com/?user=sukhvir166&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Contribution Activity & Commit Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukhvir166&theme=tokyo-night&hide_border=true&border_radius=8&area=true" width="100%" alt="Contribution Activity Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sukhvir166&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ by <a href="https://github.com/sukhvir166">Sunny</a></sub>
+</div>
