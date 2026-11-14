@@ -23,6 +23,12 @@
     </a>
   </p>
 
+  <!-- Live Quick Stats Badges (100% Reliable & Fast) -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/sukhvir166?label=Followers&logo=github&style=flat-square&color=38bdf8" alt="Followers" />
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-success?style=flat-square&color=22c55e" alt="Status" />
+  </p>
+
 </div>
 
 ---
@@ -80,20 +86,40 @@ Fun Fact: "I turn coffee into responsive interfaces and clean code."
 ### 📌 Featured Projects
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/sukhvir166/solar-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=sukhvir166&repo=solar-system&theme=tokyonight&hide_border=true" width="95%" alt="Solar System" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/sukhvir166/CRISPR-Cas9-DNA-simulation">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=sukhvir166&repo=CRISPR-Cas9-DNA-simulation&theme=tokyonight&hide_border=true" width="95%" alt="CRISPR Cas9 DNA simulation" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌌 <a href="https://github.com/sukhvir166/solar-system">Solar System Simulation</a></h3>
+      <p align="center">
+        An interactive, realistic 3D Solar System simulation featuring celestial orbital physics and planetary models.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20WebGL%20%7C%203D-38bdf8?style=flat-square" alt="Tech" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/sukhvir166/solar-system?style=social" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sukhvir166/solar-system?style=social" alt="Forks" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sukhvir166/solar-system"><strong>Explore Repository »</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 <a href="https://github.com/sukhvir166/CRISPR-Cas9-DNA-simulation">CRISPR-Cas9 DNA Simulation</a></h3>
+      <p align="center">
+        A visual bio-computational simulation illustrating the molecular gene-editing mechanism of the CRISPR-Cas9 complex.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tech-Bioinformatics%20%7C%20Simulation-a855f7?style=flat-square" alt="Tech" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/sukhvir166/CRISPR-Cas9-DNA-simulation?style=social" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sukhvir166/CRISPR-Cas9-DNA-simulation?style=social" alt="Forks" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sukhvir166/CRISPR-Cas9-DNA-simulation"><strong>Explore Repository »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -104,15 +130,18 @@ Fun Fact: "I turn coffee into responsive interfaces and clean code."
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sukhvir166&show_icons=true&locale=en&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Stats" />
+        <!-- GitHub Stats with Cache Buster to bypass broken GitHub cache -->
+        <img src="https://github-readme-stats.vercel.app/api?username=sukhvir166&show_icons=true&locale=en&theme=tokyonight&hide_border=true&cache_seconds=3600&v=2" width="95%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhvir166&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="95%" alt="Top Languages" />
+        <!-- Top Languages with Cache Buster -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhvir166&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&v=2" width="95%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <br/>
+        <!-- Working Streak Stats -->
         <img src="https://streak-stats.demolab.com/?user=sukhvir166&theme=tokyonight&hide_border=true" width="95%" alt="Contribution Streak" />
       </td>
     </tr>
@@ -125,16 +154,6 @@ Fun Fact: "I turn coffee into responsive interfaces and clean code."
 
 <div align="center">
   <img src="https://ghchart.rshah.org/38bdf8/sukhvir166" width="100%" alt="Sunny's Github Contribution Chart" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sukhvir166&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
